@@ -7,11 +7,16 @@ comparisons done per text character Is approximately 0.24 for a five character p
 Implement the algorithm and run it on a Norwegian (or another language) text and compare
 the results.
 
+
+
 Problem 3 (Knuth-Morris-Pratt)
 
 Implement the algorithm 
 
+
+
 Problem 9
+
 a) Implement a recursive version of the longest common subsequence problem.
 
 b) Implement the dynamic version of the longest common subsequence problem.
