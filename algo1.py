@@ -22,7 +22,7 @@ def BMMatch(T, P):
             j = m-1
     return "There is no substring of T matching P"
 
-
+#Oppgave 3
 def KMPFailureFunc(P):
     lmp = [0] * len(P)
     i = 1
